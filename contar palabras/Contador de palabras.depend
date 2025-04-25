@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1744382547 source:c:\users\kevin\desktop\fundamentos de programacion\contador de palabras\main.c
+	<stdio.h>
+	<ctype.h>
+
